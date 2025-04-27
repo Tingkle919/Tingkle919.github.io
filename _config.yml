@@ -23,13 +23,13 @@ repository               : "Tingkle919.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "池伟畅"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "大家好"
+  location         : "浙江杭州"
+  employer         : "浙江工商大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "169196592@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
