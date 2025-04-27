@@ -1,9 +1,9 @@
 ---
 permalink: /
-title:"about me"
-excerpt:"About me"
+title: "About me"
+excerpt: "About me"
 author_profile: ture
-rediret_from:
+redirect_from:
   - /about/
   - /about.html
 ---
