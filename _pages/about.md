@@ -1,18 +1,17 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "关于我"
+excerpt: "个人信息"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
+我是[浙江工商大学](https://www.zjsu.edu.cn/) [信息与电子工程学院](http://iee.zjgsu.edu.cn/)信息安全专业大三学生，研究方向聚焦网络安全、数据隐私保护、人工智能安全及密码学应用。
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+现于[浙江工商大学网络安全实验室](http://iee.zjgsu.edu.cn/szdw/aqkxyjs.htm)师从[XXX教授](https://www.example.com/)开展可信计算与隐私计算研究。此前曾参与[XXX教授](https://example.zjgsu.edu.cn/)课题组区块链安全相关研究。
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+[[简历下载]](../assets/Curriculum_Vitae.pdf)
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[邮箱](mailto:XX@mail.zjgsu.edu.cn) / [GitHub](https://github.com/QiuDi233) / [微信](../images/wechat.jpg) / [技术博客](https://blog.csdn.net/qd1813100174)
